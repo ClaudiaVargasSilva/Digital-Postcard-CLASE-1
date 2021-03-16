@@ -10,6 +10,6 @@ input {font-size: 18px; font-family:'Handlee', cursive; width: 100%; padding: 5p
 .body-right input {display: block;}
 h1{font-size: 30px;}
 .postcard-footer {padding: 10px; text-align: center;}
-.postcard-footer input [type=submit]{border: none; border-bottom: 1px solid gray;}
+.postcard-footer input [type=submit]{border: 0; border-bottom: 1px solid gray;}
 .postcard-body input [type=text] {border: none; border-bottom: 1px solid gray; width: 240px;margin-bottom: 10px; padding: 7px;}
 button {padding: 10px 20px; font-size: 14px;border: 1; border-bottom: 1px solid #BDBDBD;}
